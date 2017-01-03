@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## José Gonzales
 
 You can use the [editor on GitHub](https://github.com/jotagonzales/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
